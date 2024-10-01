@@ -262,6 +262,11 @@ a {
   line-height: 20px;
   text-align: center;
   color: #121212;
+  margin-top: 24px;
+}
+
+.social-media-photo {
+  margin-inline: auto;
 }
 
 .follower-growth {
